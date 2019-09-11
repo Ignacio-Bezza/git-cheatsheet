@@ -1,0 +1,9 @@
+__pycache__
+.idea 
+.idea/*
+venv
+env
+.pytyest_cache
+
+# Comprehensive .gitignore found at:
+# https://github.com/github/gitignore/blob/master/Python.gitignore
