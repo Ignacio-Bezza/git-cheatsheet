@@ -1,6 +1,7 @@
 # ReadMe.md
 
 This is my git cheat sheet. #Keepitasecret
+This is me addoing texty remotely
 
 ## git commands
 
